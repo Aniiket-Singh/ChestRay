@@ -48,4 +48,9 @@ The Accuracy of these models on the Testing Dataset was measured along 3 metrics
 | ResNet152            | 92.22   | 84.67  | 85.45  | 84.49  |
 | DenseNet169          | 93.41   | 83.86  | 85.31  | 84.35  |
 
+## Links and References
+
+[1] G.Bagler, M.Goel, “Framework for automated diet logging and nutrition management”
+
+[2] <a href="https://youtu.be/_RgdXdaX6_E?si=9U2NUBlUSvurmvf_" target="_blank">Conversation with Ganesh Bagler : Computational Gastronomy with 'food for thought'</a>
 
