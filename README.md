@@ -1,3 +1,6 @@
+# ANALYSIS OF DEEP LEARNING MODELS FOR INDIAN FOOD CLASSIFICATION
+
+
 This project was inspired by a podcast that YouTube recommended me in mid October introducing me to Prof. Bagler from IIIT Delhi. While going through his Google Scholar profile I was inspired to implement a research papr[1] published by his team.
 
 ## Context
